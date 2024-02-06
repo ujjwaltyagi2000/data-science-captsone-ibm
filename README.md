@@ -25,15 +25,15 @@ To comprehend the scale of SpaceX's Falcon 9, we'll refer to diagrams by Forest 
 
 1. Payload Enclosed in Fairings: The cargo is enclosed in fairings.
 
-![alt text](img\image.png)
+![alt text](img/image.png)
 
 2. Second Stage: Assists in bringing the payload to orbit.
 
-![alt text](img\image-1.png)
+![alt text](img/image-1.png)
 
 3. First Stage: Performs the majority of the work and is notably larger than the second stage.
 
-![alt text](img\image-2.png)
+![alt text](img/image-2.png)
 
 ## First Stage Reusability:
 
